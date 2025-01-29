@@ -20,13 +20,6 @@ This project is a simple AI agent that follows a **Thought → Action → Observ
 ![System Flow](pic1.png)  
 ![Example Execution](pic2.png)  
 
-## Technologies Used
-
-- **Groq API** (LLM for reasoning)
-- **Python** (Backend logic)
-- **React.js** (Frontend UI)
-- **dotenv** (Environment variable management)
-
 ## Setup & Installation
 
 1. **Clone the Repository**  
@@ -38,7 +31,6 @@ This project is a simple AI agent that follows a **Thought → Action → Observ
 2. **Install Dependencies**  
    ```
    pip install -r requirements.txt  
-   cd frontend && npm install
    ```  
 
 3. **Set Up API Key**  
